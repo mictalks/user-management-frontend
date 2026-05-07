@@ -8,7 +8,7 @@ The project allows creating, listing and deleting users through a clean and resp
 
 # Preview
 
-<img width="1200" alt="User Management App" src="https://github.com/user-attachments/assets/preview.png" />
+![Preview](./src/assets/preview.png)
 
 ---
 
